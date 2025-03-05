@@ -1,2 +1,0 @@
-# szkriptnyelvek
-Szkriptnyelvek feltöltendő házik
