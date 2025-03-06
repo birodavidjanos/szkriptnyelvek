@@ -37,10 +37,15 @@ def match_ends(words):
 #       egyesítjük őket.
 def front_x(words):
     x_lista=[]
+    sima_lista=[]
     for n in words:
         if n[0]=="x":
             x_lista.append(n)
-    return
+            x_lista.sort()
+        if n[0]!="x":
+            sima_lista.append(n)
+            sima_lista.sort()
+    return x_lista+sima_lista
 
 
 # Egy egyszerű teszt fv. Kiírja az egyes fv.-ek visszaadott értékét, ill.
