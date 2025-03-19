@@ -1,0 +1,15 @@
+A PEP 8 (Python Enhancement Proposal 8) a Python hivatalos stílusirányelveit tartalmazza, amelyek célja az olvashatóbb, egységesebb kód írásának elősegítése. Röviden az alábbiakat tartalmazza:
+
+Behúzások: 4 szóköz használata a blokkok behúzásához (a tabulátor helyett).
+
+Sorhossz: Egy sor hossza ne haladja meg a 79 karaktert (dokstrings és megjegyzések esetén 72).
+
+Sorok elválasztása: Üres sorokat használj függvények, osztályok, vagy kódrészek elválasztásához (2 üres sor például osztályok között).
+
+Importálások: Minden importálás külön sorban legyen, és kerülni kell a from module import * használatát.
+
+Megnevezési konvenciók: Például CapWords osztályokhoz, snake_case a függvényekhez és változókhoz.
+
+Helyes szóközhasználat: Például kerülendő a felesleges szóközök használata zárójelek belsejében vagy az operátorok körül.
+
+A PEP 8 célja, hogy a kód könnyebben érthető legyen más fejlesztők számára, és megkönnyítse a közös munkát.
