@@ -25,8 +25,6 @@ def main():
     print(result)
 
     matrix = [ [2, 6], [1, 3], [5, 4] ]
-    
-
     print(func3(matrix))
 
 
