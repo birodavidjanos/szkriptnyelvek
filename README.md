@@ -76,4 +76,5 @@ main()
 
 
 
-https://github.com/BAndris4/Szkriptnyelvek/tree/main](https://github.com/BAndris4/Szkriptnyelvek
+https://github.com/BAndris4/Szkriptnyelvek/
+
